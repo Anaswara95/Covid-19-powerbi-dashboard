@@ -5,14 +5,14 @@
 # Steps Done
 ***Preprocessing***
 
-- Data Cleaning
-***Removed duplicates, missing values, and irrelevant columns.***
+- ***Data Cleaning***
+Removed duplicates, missing values, and irrelevant columns.
 
-- Adding Calculated Columns and Measures
-***Created calculated columns such as mortality rate, recovery rate, and active cases. Implemented calculated measures for metrics like new cases, new deaths, and new recoveries on a daily basis.***
+- ***Adding Calculated Columns and Measures***
+Created calculated columns such as mortality rate, recovery rate, and active cases. Implemented calculated measures for metrics like new cases, new deaths, and new recoveries on a daily basis.
 
-- Data Modeling
-***Designed the data model to establish relationships between tables based on common keys such as country/region and date. Created hierarchies and sorted data fields to facilitate navigation and analysis in Power BI.***
+- ***Data Modeling***
+Designed the data model to establish relationships between tables based on common keys such as country/region and date. Created hierarchies and sorted data fields to facilitate navigation and analysis in Power BI.
 
 # Features 
 
