@@ -4,13 +4,13 @@
 
 # Features 
 
-***Worldwide Overview:*** Visualizations depicting global COVID-19 trends, including total cases, deaths, and recoveries, as well as daily and cumulative statistics.
+- ***Worldwide Overview:*** Visualizations depicting global COVID-19 trends, including total cases, deaths, and recoveries, as well as daily and cumulative statistics.
 
-***Country Overview:*** Detailed analysis of COVID-19 data for individual countries, showcasing key metrics such as cases, deaths, and testing rates.
+- ***Country Overview:*** Detailed analysis of COVID-19 data for individual countries, showcasing key metrics such as cases, deaths, and testing rates.
 
-***Monthly Overview:*** Summarized views of COVID-19 data on a monthly basis, allowing users to observe trends and patterns over time.
+- ***Monthly Overview:*** Summarized views of COVID-19 data on a monthly basis, allowing users to observe trends and patterns over time.
 
-***USA Overview:*** In-depth examination of COVID-19 statistics within the United States, including state-by-state breakdowns and trend analysis.
+- ***USA Overview:*** In-depth examination of COVID-19 statistics within the United States, including state-by-state breakdowns and trend analysis.
 
 
 # Data Sources
