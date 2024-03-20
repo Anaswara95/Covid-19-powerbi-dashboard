@@ -2,6 +2,18 @@
 # Overview
 ***This repository contains a COVID-19 Power BI dashboard that provides comprehensive insights into the global pandemic situation. The dashboard is designed to offer both a high-level overview and detailed analysis of COVID-19 data, including worldwide trends, country-specific statistics, monthly summaries, and a focus on the United States.***
 
+# Steps Done
+***Preprocessing***
+
+- Data Cleaning
+***Removed duplicates, missing values, and irrelevant columns.***
+
+- Adding Calculated Columns and Measures
+***Created calculated columns such as mortality rate, recovery rate, and active cases. Implemented calculated measures for metrics like new cases, new deaths, and new recoveries on a daily basis.***
+
+- Data Modeling
+***Designed the data model to establish relationships between tables based on common keys such as country/region and date. Created hierarchies and sorted data fields to facilitate navigation and analysis in Power BI.***
+
 # Features 
 
 - ***Worldwide Overview:*** Visualizations depicting global COVID-19 trends, including total cases, deaths, and recoveries, as well as daily and cumulative statistics.
