@@ -1,5 +1,5 @@
 # Covid-19-powerbi-dashboard
-[Cpvid-19 Dataset](https://drive.google.com/drive/folders/1-9oeRR0dOxo6EFKdmatoshGgQKwBpaVb?usp=sharing)
+[Covid-19 Dataset](https://drive.google.com/drive/folders/1-9oeRR0dOxo6EFKdmatoshGgQKwBpaVb?usp=sharing)
 # Overview
 ***This repository contains a COVID-19 Power BI dashboard that provides comprehensive insights into the global pandemic situation. The dashboard is designed to offer both a high-level overview and detailed analysis of COVID-19 data, including worldwide trends, country-specific statistics, monthly summaries, and a focus on the United States.***
 
